@@ -7,11 +7,11 @@
 ## Desafio - Teorema da Divisão Euclidiana (Algoritmo da Divisão)
 
 ### 📝 **Enunciado**
-➡ Desenvolver programa que calcule o **quociente** e o **resto** da **divisão de dois números inteiros**.
+**Desenvolver programa que calcule o quociente e o resto da divisão de dois números inteiros**.
 <br>
 
-> **Atenção:** o quociente e resto da divisão de um inteiro **a** por um inteiro não-nulo **b** são respectivamente os únicos inteiros **q** e **r**, tais que:
-<br><br>
+**Atenção:** o quociente e resto da divisão de um inteiro **a** por um inteiro não-nulo **b** são respectivamente os únicos inteiros **q** e **r**, tais que:
+<br>
 0 ≤ r < |b|
 <br> 
 Se r < 0: r = r - |b|
@@ -19,8 +19,6 @@ Se r < 0: r = r - |b|
 a = b * q + r 
 <br> 
 q = (a - r) / b
-<br>
-> ͏
 <br>
 
 📥 **Entrada de dados:** 2 números inteiros: a e b **(-1.000 ≤ a, b < 1.000)**
