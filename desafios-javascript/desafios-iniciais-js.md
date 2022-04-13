@@ -2,22 +2,10 @@
   <img alt="JavaScript" height="100" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/js-square.svg">
 </div>
 
-# 💻 Desafios Iniciais JavaScript
-
-## Desafio 1 - Teorema da Divisão Euclidiana (Algoritmo da Divisão)
-- Calcular o quociente e o resto da divisão de dois números inteiros;
-- Quociente e resto da divisão de um inteiro **a** por um inteiro não-nulo **b** são respectivamente os únicos inteiros **q** e **r**, tais que:
-
-0 ≤ r < |b|
-Se r < 0: r = r - |b|
-a = b * q + r
-q = (a - r) / b
+# 🚀 Desafios Iniciais JavaScript
 
 
-
-### Entrada de dados
-2 números inteiros: a e b
-**(-1.000 ≤ a, b < 1.000)**
-
-## Saída
-Imprimir o quociente q seguido pelo resto r da divisão de a por b
+### Desafio - Teorema da Divisão Euclidiana (Algoritmo da Divisão)
+- [**Resolução:** Justificativa (.md)](https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafio-teorema-da-divisao-euclidiana/resolucao-justificativa.md)
+- [**Resolução:** Código (.js)](https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafio-teorema-da-divisao-euclidiana/resolucao-codigo.js)
+---

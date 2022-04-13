@@ -2,7 +2,7 @@
   <img alt="JavaScript" height="100" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/js-square.svg">
 </div>
 
-# 💻 Desafios Iniciais JavaScript
+# 🚀 Desafio - Teorema da Divisão Euclidiana (Algoritmo da Divisão)
 
 ## Desafio 1 - Teorema da Divisão Euclidiana (Algoritmo da Divisão)
 - Calcular o quociente e o resto da divisão de dois números inteiros;
@@ -21,3 +21,6 @@ q = (a - r) / b
 
 ## Saída
 Imprimir o quociente q seguido pelo resto r da divisão de a por b
+
+
+---
