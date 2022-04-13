@@ -4,9 +4,9 @@
 
 # 💻 Desafios Iniciais JavaScript
 
-### Desafio - Teorema da Divisão Euclidiana (Algoritmo da Divisão)
+## Desafio - Teorema da Divisão Euclidiana (Algoritmo da Divisão)
 
-#### 📝 **Enunciado**
+### 📝 **ENUNCIADO**
 **Desenvolver programa que calcule o quociente e o resto da divisão de dois números inteiros**.
 
 **Atenção:** o quociente e resto da divisão de um inteiro **a** por um inteiro não-nulo **b** são respectivamente os únicos inteiros **q** e **r**, tais que:
@@ -26,7 +26,7 @@ q = (a - r) / b
 
 
 
-#### ✅ **Resolução**
+### ✅ **RESOLUÇÃO**
 
 
 ---
