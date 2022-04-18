@@ -7,9 +7,12 @@
 # 💻 Desafios Iniciais JavaScript
 
 ## Desafio - Quadrado e ao Cubo
+Desafio realizado no Bootcamp **Carrefour Web Developer** na [Digital Innovation One](https://www.dio.me/).
 
-### 📝 **Enunciado**
-#### **Você terá o desafio de escrever um programa que leia um valor inteiro N (1 < N < 1000). Este N é a quantidade de linhas de saída que serão apresentadas na execução do programa.**.
+<br>
+
+### 📝 **Enunciado (sintetizado)**
+#### **Escrever um programa que leia um valor inteiro N (1 < N < 1000). Este N é a quantidade de linhas de saída que serão apresentadas na execução do programa.**.
 
 📥 **Entrada:** 1 número inteiro positivo N.
 

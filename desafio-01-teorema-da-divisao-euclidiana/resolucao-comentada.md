@@ -33,7 +33,7 @@ q = (a - r) / b
 ### ✅ **Resolução Comentada**
 
 **📥 1. Entrada de dados**<br>
-Primeiro vamos definir a entrada dos dados, para isso vamos declarar a variável [**let**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/let) e identificá-la. Em seguida, utilizaremos a função **gets** para a leitura das entradas (inputs) dos dados, e o método [**split**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/split) para retornar o array com o separador que definirmos através dele.
+Primeiro vamos definir a entrada dos dados, para isso vamos declarar a variável [**let**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/let) e identificá-la. Em seguida, utilizaremos a função **gets** para a leitura da entrada (inputs) dos dados, e o método [**split**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/split) para retornar o array com o separador que definirmos através dele.
 
 ```javascript
 let entrada = gets().split(' ');
