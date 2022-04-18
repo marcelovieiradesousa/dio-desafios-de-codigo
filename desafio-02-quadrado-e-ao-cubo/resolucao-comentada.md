@@ -21,10 +21,10 @@ Desafio realizado no Bootcamp **Carrefour Web Developer** na [Digital Innovation
 Exemplo de Entrada          | Exemplo de Saída
 --------------------------- | ---------------------------
 5                           | 1 1 1
-                            | 2 4 8
-                            | 3 9 27
-                            | 4 16 64
-                            | 5 25 125
+ ͏ ͏ ͏                         | 2 4 8
+ ͏ ͏ ͏                         | 3 9 27
+ ͏ ͏ ͏                         | 4 16 64
+ ͏ ͏ ͏                         | 5 25 125
 
 <br>
 
@@ -33,7 +33,7 @@ Em JavaScript as funções de STDIN e STDOUT respectivamente são gets e console
 
 <br>
 
-### ✅ **Resolução**
+### ✅ **Resolução Comentada**
 
 **📥 1. Entrada de dados**<br>
 Primeiro vamos definir a entrada dos dados, para isso vamos declarar a variável [**let**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/let) e identificá-la. Em seguida, utilizaremos a função **gets** para a leitura da entrada (inputs) dos dados. E, sabendo que a entrada é **um número inteiro positivo N**, utilizaremos a função [**parseInt**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseInt) para retornar o valor como número inteiro.

@@ -1,8 +1,9 @@
-/* RESOLUÇÃO COM CÓDIGO DO DESAFIO */
+
+// RESOLUÇÃO COM CÓDIGO SUGERIDO NO DESAFIO 
 // a função gets é implementada dentro do sistema para ler as entradas(inputs) dos dados
 // Abaixo segue um exemplo de código que você pode ou não utilizar
 
-let totalDeDias = parseInt(gets());
+/* let totalDeDias = parseInt(gets());
 
 let qtdAnos, qtdMeses;
 
@@ -16,11 +17,11 @@ let resultado = (qtdAnos + " ano(s) " + '\n' +
 qtdMeses +" mes(es)" + '\n' +
 totalDeDias + " dia(s)");
 
-print(resultado);
-/* RESOLUÇÃO COM CÓDIGO DO DESAFIO END */
+print(resultado); */
+// RESOLUÇÃO COM CÓDIGO SUGERIDO NO DESAFIO END 
 
 
-/*  RESOLUÇÃO COM NOVO CÓDIGO */
+//  RESOLUÇÃO
 
 
-/*  RESOLUÇÃO COM NOVO CÓDIGO END */
+// RESOLUÇÃO END
