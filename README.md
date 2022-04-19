@@ -15,3 +15,13 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
 - **Resolução:** [Comentários (.md)](https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafio-teorema-da-divisao-euclidiana/resolucao-comentada.md)
 - **Resolução:** [Código (.js)](https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafio-teorema-da-divisao-euclidiana/resolucao-codigo.js)
 ---
+
+### Desafio - Quadrado e ao Cubo
+- **Resolução:** [Comentários (.md)](https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafio-quadrado-e-ao-cubo/resolucao-comentada.md)
+- **Resolução:** [Código (.js)](https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafio-quadrado-e-ao-cubo/resolucao-codigo.js)
+---
+
+### Desafio - Idade em Dias
+- **Resolução:** [Comentários (.md)](https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafio-idade-em-dias/resolucao-comentada.md)
+- **Resolução:** [Código (.js)](https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafio-idade-em-dias/resolucao-codigo.js)
+---
