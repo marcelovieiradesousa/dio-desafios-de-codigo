@@ -1,4 +1,4 @@
-//  RESOLUÇÃO
+//  RESOLUÇÃO DESAFIO TEOREMA DA DIVISÃO EUCLIDIANA
 let entrada = gets().split(' ');
 
 let a = parseInt(entrada[0]);
@@ -13,4 +13,4 @@ if (r < 0) {
 }
 
 console.log(q + ' ' + r);
-// RESOLUÇÃO END
+// RESOLUÇÃO DESAFIO TEOREMA DA DIVISÃO EUCLIDIANA END

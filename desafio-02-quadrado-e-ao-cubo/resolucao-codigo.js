@@ -1,4 +1,4 @@
-//  RESOLUÇÃO
+//  RESOLUÇÃO DESAFIO QUADRADO E AO CUBO
 let entrada = parseInt(gets());
 
 for (let i = 1; i <= entrada; i++) {
@@ -7,4 +7,4 @@ for (let i = 1; i <= entrada; i++) {
 
    console.log(`${i} ${quadrado} ${cubo} \n `);
 }
-// RESOLUÇÃO END
+// RESOLUÇÃO DESAFIO QUADRADO E AO CUBO END
