@@ -7,8 +7,6 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
 
 <br>
 
----
-
 ## 💻 Desafios Iniciais JavaScript
 
 ### Desafio - Teorema da Divisão Euclidiana (Algoritmo da Divisão)
