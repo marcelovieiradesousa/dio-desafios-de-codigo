@@ -10,8 +10,8 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
 ## 💻 Desafios Iniciais JavaScript
 
 ### Desafio - Teorema da Divisão Euclidiana (Algoritmo da Divisão)
-- **Resolução:** [Comentários (.md)](https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafio-teorema-da-divisao-euclidiana/resolucao-comentada.md)
-- **Resolução:** [Código (.js)](https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafio-teorema-da-divisao-euclidiana/resolucao-codigo.js)
+- **Resolução:** [Comentários (.md)](https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafio-01-teorema-da-divisao-euclidiana/resolucao-codigo.js)
+- **Resolução:** [Código (.js)](https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafio-01-teorema-da-divisao-euclidiana/resolucao-comentada.md)
 ---
 
 ### Desafio - Quadrado e ao Cubo
