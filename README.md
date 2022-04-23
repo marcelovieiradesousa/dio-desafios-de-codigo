@@ -84,7 +84,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
      <!-- LINHA 0 -->
      <tr>
         <th>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript">
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-intermediarios-javascript">
              Desafios Intermediários JavaScript
            </a>
         </th>
