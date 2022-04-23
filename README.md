@@ -27,7 +27,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
     <tr>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafio-01-teorema-da-divisao-euclidiana">
-             Desafio - Teorema da Divisão Euclidiana (Algoritmo da Divisão)
+             Teorema da Divisão Euclidiana (Algoritmo da Divisão)
            </a>
         </td>
         <td>
@@ -45,7 +45,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
      <tr>
        <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafio-02-quadrado-e-ao-cubo">
-             Desafio - Quadrado e ao Cubo
+             Quadrado e ao Cubo
            </a>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafio-02-quadrado-e-ao-cubo/resolucao-comentada.md">
@@ -62,7 +62,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
      <tr>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafio-03-idade-em-dias">
-             Desafio - Idade em Dias
+             Idade em Dias
            </a>
         </td>
         <td>
