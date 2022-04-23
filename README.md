@@ -16,7 +16,8 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
   </a>
 </h2>
 <table>
-    <!-- LINHA 1 -->
+    <!-- DESAFIOS INICIAIS JAVASCRIPT -->
+    <!-- LINHA 0 -->
     <tr>
         <th>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript">
@@ -26,11 +27,11 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
         <th>Resolução Comentada</th>
         <th>Código</th>
     </tr>
-    <!-- LINHA 2 -->
+    <!-- LINHA 1 -->
     <tr>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript/desafio-01-teorema-da-divisao-euclidiana">
-             Teorema da Divisão Euclidiana (Algoritmo da Divisão)
+            01. Teorema da Divisão Euclidiana (Algoritmo da Divisão)
            </a>
         </td>
         <td>
@@ -44,11 +45,11 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
           </a>
         </td>    
      </tr>
-    <!-- LINHA 3 -->
+    <!-- LINHA 2 -->
      <tr>
        <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript/desafio-02-quadrado-e-ao-cubo">
-             Quadrado e ao Cubo
+            02. Quadrado e ao Cubo
            </a>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-02-quadrado-e-ao-cubo/resolucao-comentada.md">
@@ -61,11 +62,11 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
           </a>
         </td>
      </tr>
-     <!-- LINHA 4 -->
+     <!-- LINHA 3 -->
      <tr>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript/desafio-03-idade-em-dias">
-             Idade em Dias
+            03. Idade em Dias
            </a>
         </td>
         <td>
@@ -78,6 +79,71 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/👩‍💻%20Ver%20Código-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>
+     </tr>
+     <!-- DESAFIOS INTERMEDIÁRIOS JAVASCRIPT -->
+     <!-- LINHA 0 -->
+     <tr>
+        <th>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript">
+             Desafios Intermediários JavaScript
+           </a>
+        </th>
+        <th>Resolução Comentada</th>
+        <th>Código</th>
+    </tr>
+    <!-- LINHA 1 -->
+    <tr>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-intermediarios-javascript/desafio-01-esfera">
+            01. Esfera
+           </a>
+        </td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-01-esfera/resolucao-comentada.md">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-01-esfera/resolucao-codigo.js">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/👩‍💻%20Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>    
+     </tr>
+     <!-- LINHA 2 -->
+     <tr>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-intermediarios-javascript/desafio-02-ultrapassando-v">
+             02. Ultrapassando V
+           </a>
+        </td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-02-ultrapassando-v/resolucao-comentada.md">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-02-ultrapassando-v/resolucao-codigo.js">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/👩‍💻%20Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>    
+     </tr>
+     <!-- LINHA 3 -->
+     <tr>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-intermediarios-javascript/desafio-03-ordenando-numeros-pares-e-impares">
+             03. Ordenando Números Pares e Ímpares
+           </a>
+        </td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-03-ordenando-numeros-pares-e-impares/resolucao-comentada.md">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-03-ordenando-numeros-pares-e-impares/resolucao-codigo.js">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/👩‍💻%20Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>    
      </tr>
 </table>
 
