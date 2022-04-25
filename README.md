@@ -118,12 +118,12 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
         </td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-02-ultrapassando-v/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-CCC?style=for-the-badge&logo=none">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-02-ultrapassando-v/resolucao-codigo.js">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-CCC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
      </tr>
