@@ -1,4 +1,4 @@
-//  RESOLUÇÃO DESAFIO ORDENANDO NÚMEROS PARES E ÍMPARES V
+//  RESOLUÇÃO DESAFIO ORDENANDO NÚMEROS PARES E ÍMPARES
 let qntNumeros = parseInt(gets());
 let pares = []
 let impares = []
