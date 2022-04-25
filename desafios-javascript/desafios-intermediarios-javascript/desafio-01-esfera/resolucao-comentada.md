@@ -50,7 +50,7 @@ let V = (4/3.0 * PI * Math. pow(R,3)).toFixed(3);
 <br>
 
 **📤 2. Saída de dados**<br>
-Por fim, vamos imprimir a saída (output) de dados através da função **console.log**, utilizando [**template strings**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Template_literals):
+Por fim, vamos imprimir a saída (output) de dados com **console.log**, utilizando [**template strings**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Template_literals):
 
 ```javascript
 console.log(`VOLUME =  ${V}`);

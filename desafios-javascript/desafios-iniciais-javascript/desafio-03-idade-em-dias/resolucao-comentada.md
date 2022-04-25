@@ -64,7 +64,7 @@ idadeEmDias= idadeEmDias % 30;
 <br>
 
 **📤 2. Saída de dados**<br>
-Por fim, vamos imprimir a saída (output) de dados através da função **console.log**, utilizando [**template strings**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Template_literals) e quebrando a linha com **\n**:
+Por fim, vamos imprimir a saída (output) de dados com **console.log**, utilizando [**template strings**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Template_literals) e quebrando a linha com **\n**:
 
 ```javascript
 let saida = (`${idadeEmAnos} ano(s) \n ${idadeEmMeses} mes(es) \n ${idadeEmDias} dia(s)`);

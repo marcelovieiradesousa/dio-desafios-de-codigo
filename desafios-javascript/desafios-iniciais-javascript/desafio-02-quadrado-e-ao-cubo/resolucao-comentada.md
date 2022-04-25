@@ -49,7 +49,7 @@ let entrada = parseInt(gets());
  <br>
  Para calcularmos o valor de **i** ao quadrado e ao cubo, utilizaremos a função [**Math.pow(base, expoente)**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/pow).
 <br>
-Por fim, vamos imprimir a saída (output) de dados através da função **console.log**, utilizando [**template strings**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Template_literals) e quebrando a linha com **\n**:
+Por fim, vamos imprimir a saída (output) de dados com **console.log**, utilizando [**template strings**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Template_literals) e quebrando a linha com **\n**:
 
 ```javascript
 for (let i = 1; i <= entrada; i++) { // i = i + 1. Simplificando, temos: i += 1. Simplificando ainda mais, temos: i++.

@@ -40,7 +40,7 @@ Exemplo de Entrada          | Exemplo de Saída
 <br>
 
 **📥 1. Entrada de dados**<br>
-Primeiro vamos definir a entrada dos dados, que será **valores inteiros**, para isso vamos declarar a variável [**let**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/let) e identificá-la. Em seguida, utilizaremos a função **gets** para a leitura da entrada (inputs) dos dados. E, sabendo que a entrada é um **valor inteiro**, utilizaremos a função [**parseInt**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseInt) para retornar o valor como número inteiro.
+Primeiro vamos definir a entrada dos dados, para isso vamos declarar a variável [**let**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/let) e identificá-la. Em seguida, utilizaremos a função **gets** para a leitura da entrada (inputs) dos dados. E, sabendo que a entrada é composta por **valores inteiros**, utilizaremos a função [**parseInt**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseInt) para retornar os valores como números inteiros.
  Vamos identificar como **R**, pois o primeiro valor de entrada será atribuído a ele.
 
 ```javascript
@@ -73,7 +73,7 @@ while(contNum <= V){ // enquanto contNum <= V for true, será executado:
 <br>
 
 **📤 2. Saída de dados**<br>
-Por fim, vamos imprimir a saída (output) de dados através da função **console.log**:
+Por fim, vamos imprimir a saída (output) de dados com **console.log**:
 
 ```javascript
 console.log(contNumUltV);

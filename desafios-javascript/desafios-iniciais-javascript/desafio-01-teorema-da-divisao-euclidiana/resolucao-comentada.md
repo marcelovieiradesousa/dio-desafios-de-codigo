@@ -81,7 +81,7 @@ if (r < 0) {
 <br>
 
 **📤 2. Saída de dados**<br>
-Por fim, vamos imprimir a saída (output) de dados através da função **console.log**, na ordem definida pelo enunciado (q seguido de r), sendo os valores separados pela string definida anteriormente pelo método split:
+Por fim, vamos imprimir a saída (output) de dados com **console.log**, na ordem definida pelo enunciado (q seguido de r), sendo os valores separados pela string definida anteriormente pelo método split:
 ```javascript
 console.log(q + ' ' + r);
 ```
