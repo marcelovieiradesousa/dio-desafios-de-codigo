@@ -30,13 +30,14 @@ Exemplo de Entrada          | Exemplo de Saída
 
 ### ✅ **Resolução Comentada**
 
-**Entendendo o enunciado**
+**📝 Entendendo o enunciado**
 - Basicamente, a princípio temos 2 variáveis, sendo elas **R** e **V**.
 - A entrada é composta por valores inteiros, um por linha, podendo ser positivos ou negativos. 
 - O primeiro valor da entrada será atribuído a **R**, enquanto o segundo só será atribuído a **V** caso esse valor seja **maior do que R**.
 - Caso o valor seja **menor ou igual a R**, **não vamos atribuí-lo a V**, e sim, ler mais valores até que seja digitado um maior do que R.
 - Por fim, vamos gerar na saída a contagem dos números de entrada (incluindo o primeiro que atribuímos a R) necessários para que o valor atribuído a R seja maior do que o de V. Por exemplo, 15 8 5 26, R= 15, V= 26, contNumUltV = 3 **(15 + 8 + 5 = 28 > 26)**
 
+<br>
 
 **📥 1. Entrada de dados**<br>
 Primeiro vamos definir a entrada dos dados, que será **valores inteiros**, para isso vamos declarar a variável [**let**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/let) e identificá-la. Em seguida, utilizaremos a função **gets** para a leitura da entrada (inputs) dos dados. E, sabendo que a entrada é um **valor inteiro**, utilizaremos a função [**parseInt**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseInt) para retornar o valor como número inteiro.
