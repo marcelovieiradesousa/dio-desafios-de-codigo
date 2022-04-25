@@ -73,7 +73,7 @@ while(contNum <= V){ // enquanto contNum <= V for true, será executado:
 <br>
 
 **📤 2. Saída de dados**<br>
-Por fim, vamos imprimir a saída (output) de dados através da função **console.log**:
+Por fim, vamos imprimir a saída (output) de dados com **console.log**:
 
 ```javascript
 console.log(contNumUltV);
