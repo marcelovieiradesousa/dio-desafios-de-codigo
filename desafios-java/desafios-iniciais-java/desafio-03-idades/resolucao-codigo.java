@@ -1,4 +1,4 @@
-/*  RESOLUÇÃO DESAFIO DIFERENÇA */
+//  RESOLUÇÃO DESAFIO IDADES
 import java.io.IOException;
 import java.util.Scanner;
 
@@ -26,4 +26,4 @@ public class  Desafio {
     }
 	
 }
-/* RESOLUÇÃO DESAFIO DIFERENÇA END */
+// RESOLUÇÃO DESAFIO IDADES END 
