@@ -6,31 +6,6 @@ public class minhaClasse {
 	
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
-        int entrada = leitor.nextInt();
-        int qntPar = 0;
-        int qntImpar = 0;
-        int qntPositivo = 0;
-        int qntNegativo = 0;
-
-        for (leitor % 2 == 0) {
-        	
-        }
-        System.out.println( qntPar + " par(es)");
-        System.out.println( qntImpar + " impar(es)");
-        System.out.println( qntPositivo + " positivo(s)");
-        System.out.println( qntNegativo + " negativo(s)");
-    }	
-}
-// RESOLUÇÃO DESAFIO ANÁLISE DE NÚMEROS END 
-
-
-import java.io.IOException;
-import java.util.Scanner;
-
-public class minhaClasse {
-	
-    public static void main(String[] args) throws IOException {
-        Scanner leitor = new Scanner(System.in);
 
         int qntPar = 0;
         int qntImpar = 0;
@@ -51,4 +26,4 @@ public class minhaClasse {
         System.out.println( qntNegativo + " negativo(s)");
     }	
 }
-
+// RESOLUÇÃO DESAFIO ANÁLISE DE NÚMEROS END 
