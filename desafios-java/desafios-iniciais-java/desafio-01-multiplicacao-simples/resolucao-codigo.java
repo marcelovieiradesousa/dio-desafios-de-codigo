@@ -1,4 +1,4 @@
-//  RESOLUÇÃO DESAFIO MULTIPLICAÇÃO SIMPLES */
+//  RESOLUÇÃO DESAFIO MULTIPLICAÇÃO SIMPLES
 import java.util.Scanner;
 
 public class Main {
