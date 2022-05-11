@@ -22,11 +22,11 @@ Desafio realizado no Bootcamp **Carrefour Web Developer** na [Digital Innovation
  Exemplo de Entrada  | Exemplo de Saída 
 ---------------------|-----------
 8                    |  9 
-                     |  11 
-                     |  13
-                     |  15
-                     |  17
-                     |  19
+ㅤ                   |  11 
+ㅤ                   |  13
+ㅤ                   |  15
+ㅤ                   |  17
+ㅤ                   |  19
 
 <br>
 
