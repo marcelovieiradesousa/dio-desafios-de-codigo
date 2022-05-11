@@ -219,6 +219,71 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
           </a>
         </td>
      </tr>
+     <!-- DESAFIOS INTERMEDIÁRIOS JAVA -->
+     <!-- LINHA 0 -->
+     <tr>
+        <th>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-intermediarios-javascript">
+             Desafios Intermediários Java
+           </a>
+        </th>
+        <th>Resolução Comentada</th>
+        <th>Código</th>
+    </tr>
+    <!-- LINHA 1 -->
+    <tr>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-intermediarios-java/desafio-01-ddd">
+            01. DDD
+           </a>
+        </td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-01-ddd/resolucao-comentada.md">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-01-ddd/resolucao-codigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>    
+     </tr>
+     <!-- LINHA 2 -->
+     <tr>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-intermediarios-java/desafio-02-seis-numeros-impares">
+             02. Seis Números Ímpares
+           </a>
+        </td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-02-seis-numeros-impares/resolucao-comentada.md">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-02-seis-numeros-impares/resolucao-codigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>    
+     </tr>
+     <!-- LINHA 3 -->
+     <tr>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-intermediarios-java/desafio-03-analise-de-numeros">
+             03. Análise de Números
+           </a>
+        </td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-03-analise-de-numeros/resolucao-comentada.md">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-03-analise-de-numeros/resolucao-codigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>    
+     </tr>
 </table>
 
 <br>
