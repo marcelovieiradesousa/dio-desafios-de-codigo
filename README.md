@@ -261,7 +261,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
            </a>
         </td>
         <td>
-          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-02-seis-numeros-impares/resolucao-codigo.java">
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-02-seis-numeros-impares/resolucao-codigo.java">
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
