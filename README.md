@@ -79,7 +79,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>
-       <!-- LINHA 4 -->
+         <!-- LINHA 4 -->
        <tr>
           <td>
              <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript/desafio-04-quadrado-de-pares">
@@ -88,7 +88,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
           </td>
           <td>
              <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-04-quadrado-de-pares/resolucao-comentada.md">
-               <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+               <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
              </a>
           </td>
           <td>
@@ -96,6 +96,23 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
               <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
             </a>
         </td>
+       <!-- LINHA 5 -->
+       <tr>
+          <td>
+             <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript/desafio-05-resto-2">
+              05. Resto 2
+             </a>
+          </td>
+          <td>
+             <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-05-resto-2/resolucao-comentada.md">
+               <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+             </a>
+          </td>
+          <td>
+            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-05-resto-2/resolucao-codigo.js">
+              <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            </a>
+        </td>         
      </tr>
      <!-- DESAFIOS INTERMEDIÁRIOS JAVASCRIPT -->
      <!-- LINHA 0 -->
