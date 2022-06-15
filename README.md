@@ -112,7 +112,24 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
             <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-05-resto-2/resolucao-codigo.js">
               <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
             </a>
-        </td>         
+        </td>
+        <!-- LINHA 6 -->
+       <tr>
+          <td>
+             <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript/desafio-06-tomadas">
+              06. Tomadas
+             </a>
+          </td>
+          <td>
+             <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-06-tomadas/resolucao-comentada.md">
+               <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+             </a>
+          </td>
+          <td>
+            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-06-tomadas/resolucao-codigo.js">
+              <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            </a>
+        </td>      
      </tr>
      <!-- DESAFIOS INTERMEDIÁRIOS JAVASCRIPT -->
      <!-- LINHA 0 -->
