@@ -36,7 +36,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
         </td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-01-teorema-da-divisao-euclidiana/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
            </a>
         </td>
         <td>
@@ -53,7 +53,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
            </a>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-02-quadrado-e-ao-cubo/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
            </a>
         </td>
         <td>
@@ -71,13 +71,30 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
         </td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-03-idade-em-dias/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-03-idade-em-dias/resolucao-codigo.js">
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
           </a>
+        </td>
+       <!-- LINHA 4 -->
+       <tr>
+          <td>
+             <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript/desafio-04-quadrado-de-pares">
+              04. Quadrado de Pares
+             </a>
+          </td>
+          <td>
+             <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-04-quadrado-de-pares/resolucao-comentada.md">
+               <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+             </a>
+          </td>
+          <td>
+            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-04-quadrado-de-pares/resolucao-codigo.js">
+              <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            </a>
         </td>
      </tr>
      <!-- DESAFIOS INTERMEDIÁRIOS JAVASCRIPT -->
@@ -100,7 +117,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
         </td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-01-esfera/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
            </a>
         </td>
         <td>
@@ -118,7 +135,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
         </td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-02-ultrapassando-v/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
            </a>
         </td>
         <td>
@@ -136,7 +153,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
         </td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-03-ordenando-numeros-pares-e-impares/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
            </a>
         </td>
         <td>
@@ -175,7 +192,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
         </td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-01-multiplicacao-simples/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
            </a>
         </td>
         <td>
@@ -192,7 +209,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
            </a>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-02-diferenca/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
            </a>
         </td>
         <td>
@@ -210,7 +227,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
         </td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-03-idades/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
            </a>
         </td>
         <td>
@@ -239,7 +256,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
         </td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-01-ddd/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
            </a>
         </td>
         <td>
@@ -257,7 +274,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
         </td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-02-seis-numeros-impares/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
            </a>
         </td>
         <td>
@@ -275,7 +292,7 @@ Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](h
         </td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-03-analise-de-numeros/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/✅%20Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
            </a>
         </td>
         <td>
