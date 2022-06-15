@@ -6,7 +6,7 @@
 <br>
 
 # 🚀 Desafios Bootcamps DIO
-Resoluções comentadas dos desafios dos bootcamps da [Digital Innovation One](https://www.dio.me/).
+Resoluções dos desafios dos bootcamps da [Digital Innovation One](https://www.dio.me/).
 
 <br>
 
