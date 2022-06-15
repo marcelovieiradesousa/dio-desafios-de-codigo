@@ -45,7 +45,7 @@ let entrada = parseInt(gets());
 <br>
 
 **📤 2. Saída de dados**<br>
- Em seguida, vamos definir a instrução [**for**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for) para definirmos os valores da saída, e, sabendo que **1 < N < 1000**, vamos iniciar a variável **i** = 1. 
+ Em seguida, vamos definir a instrução [**for**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for) para definirmos os valores da saída. 
  <br>
  Para calcularmos o valor de **i** ao quadrado e ao cubo, utilizaremos a função [**Math.pow(base, expoente)**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/pow).
 <br>
