@@ -5,5 +5,5 @@ let line = lines.shift().split(' ');
 const NUMERO_LADOS = line[0];
 const COMPRIMENTO = line[1];
 
-console.log(a * b);
+console.log(NUMERO_LADOS * COMPRIMENTO);
 // RESOLUÇÃO DESAFIO POLÍGONOS REGULARES SIMPLES END

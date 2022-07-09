@@ -51,7 +51,7 @@ const COMPRIMENTO = line[1];
 Por fim, vamos imprimir a saída (output) com **console.log**, e sabendo que o perímetro de um polígono regular é igual ao nº lados vezes o comprimento, temos:
 
 ```javascript
-console.log(a * b);
+console.log(NUMERO_LADOS * COMPRIMENTO);
 ```
 
 Com isso, temos a seguinte solução:
@@ -63,7 +63,7 @@ let line = lines.shift().split(' ');
 const NUMERO_LADOS = line[0];
 const COMPRIMENTO = line[1];
 
-console.log(a * b);
+console.log(NUMERO_LADOS * COMPRIMENTO);
 ```
 
 <br>
