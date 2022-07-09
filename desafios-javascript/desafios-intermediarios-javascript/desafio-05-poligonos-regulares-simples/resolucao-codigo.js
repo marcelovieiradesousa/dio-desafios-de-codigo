@@ -2,9 +2,8 @@
 let lines = gets().split("\n");
 let line = lines.shift().split(' ');
 
-//TODO: Complete os espaços em branco com uma possível solução para o desafio
+const NUMERO_LADOS = line[0];
+const COMPRIMENTO = line[1];
 
-const a = line[ ]
-const b = line[ ]
-print(      )
+console.log(a * b);
 // RESOLUÇÃO DESAFIO POLÍGONOS REGULARES SIMPLES END

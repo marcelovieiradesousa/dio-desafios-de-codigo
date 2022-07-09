@@ -41,23 +41,29 @@ let line = lines.shift().split(' ');
 
 
 ```javascript
-const a = line[ ]
-const b = line[ ]
+const NUMERO_LADOS = line[0]; 
+const COMPRIMENTO = line[1];
 ```
 
 <br>
 
 **📤 2. Saída de dados**<br>
-Por fim, vamos imprimir a saída (output) com **console.log**:
+Por fim, vamos imprimir a saída (output) com **console.log**, e sabendo que o perímetro de um polígono regular é igual ao nº lados vezes o comprimento, temos:
 
 ```javascript
-console.log();
+console.log(a * b);
 ```
 
 Com isso, temos a seguinte solução:
 
 ```javascript
+let lines = gets().split("\n");
+let line = lines.shift().split(' ');
 
+const NUMERO_LADOS = line[0];
+const COMPRIMENTO = line[1];
+
+console.log(a * b);
 ```
 
 <br>
