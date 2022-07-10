@@ -214,6 +214,24 @@ Resoluções dos desafios de código dos bootcamps que participei na [Digital In
           </a>
         </td>    
      </tr>
+          <!-- LINHA 6 -->
+     <tr>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-intermediarios-javascript/desafio-05-poligonos-regulares-simples">
+             05. Polígonos Regulares Simples
+           </a>
+        </td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-05-poligonos-regulares-simples/resolucao-comentada.md">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-05-poligonos-regulares-simples/resolucao-codigo.js">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>    
+     </tr>
 </table>
 
 <br>
