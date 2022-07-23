@@ -306,6 +306,60 @@ Resoluções dos desafios de código dos bootcamps que participei na [Digital In
           </a>
         </td>
      </tr>
+      <!-- LINHA 4 -->
+     <tr>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-iniciais-java/desafio-04-bob-conduite">
+            04. Bob Conduite
+           </a>
+        </td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-04-bob-conduite/resolucao-comentada.md">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-04-bob-conduite/resolucao-codigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>
+     </tr>
+     <!-- LINHA 5 -->
+     <tr>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-iniciais-java/desafio-05-pneu">
+            05. Pneu
+           </a>
+        </td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-05-pneu/resolucao-comentada.md">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-05-pneu/resolucao-codigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>
+     </tr>
+     <!-- LINHA 6 -->
+     <tr>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-iniciais-java/desafio-06-reservatorio-de-mel">
+            06. Reservatório de Mel
+           </a>
+        </td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-06-reservatorio-de-mel/resolucao-comentada.md">
+             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-06-reservatorio-de-mel/resolucao-codigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>
+     </tr>
      <!-- DESAFIOS INTERMEDIÁRIOS JAVA -->
      <!-- LINHA 0 -->
      <tr>
