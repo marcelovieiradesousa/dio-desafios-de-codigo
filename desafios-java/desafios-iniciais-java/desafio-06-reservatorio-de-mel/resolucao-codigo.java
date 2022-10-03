@@ -1,5 +1,4 @@
 //  RESOLUÇÃO DESAFIO RESERVATÓRIO DE MEL
-// Abaixo segue um exemplo de código que você pode ou não utilizar
 import java.io.IOException;
 import java.text.DecimalFormat;
 import java.util.Scanner;
@@ -10,14 +9,12 @@ public class Problem {
     	DecimalFormat df = new DecimalFormat("0.00");
     	double V, D, R, area, altura;
     	
-//TODO: Complete os espaços em branco com uma possível solução para o desafio
-
     	while (leitor.hasNext()) {
     		V = leitor.nextDouble();
     		D = leitor.nextDouble();
-    		R =      ;
-    		area = 3.14 * (    );
-    		altura = V /  (      );
+    		R = D/2;
+    		area = 3.14 * ( Math.pow(R,2) );
+    		altura = V /  ( area );
     		System.out.println("ALTURA = " + df.format(altura));
     		System.out.println("AREA = " + df.format(area));
     	}

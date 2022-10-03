@@ -4,7 +4,7 @@
 
 <br>
 
-# 💻 Desafios Iniciais Java
+# 💻 Desafios Intermediários Java
 
 ## Desafio - A Mudança
 Desafio realizado no Bootcamp **Santander Fullstack Developer** na [Digital Innovation One](https://www.dio.me/).
