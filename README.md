@@ -17,218 +17,162 @@ Resoluções dos desafios de código dos bootcamps que participei na [Digital In
 </h2>
 <table>
     <!-- DESAFIOS INICIAIS JAVASCRIPT -->
-    <!-- LINHA 0 -->
     <tr>
+        <th>Nº</th>
         <th>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript">
              Desafios Iniciais JavaScript
            </a>
         </th>
-        <th>Resolução Comentada</th>
-        <th>Código</th>
+        <th>Resolução</th>
     </tr>
-    <!-- LINHA 1 -->
     <tr>
+        <td>01</td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript/desafio-01-teorema-da-divisao-euclidiana">
-            01. Teorema da Divisão Euclidiana (Algoritmo da Divisão)
-           </a>
-        </td>
-        <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-01-teorema-da-divisao-euclidiana/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+              <span>Teorema da Divisão Euclidiana (Algoritmo da Divisão)</span>
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-01-teorema-da-divisao-euclidiana/resolucao-codigo.js">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
      </tr>
-    <!-- LINHA 2 -->
      <tr>
-       <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript/desafio-02-quadrado-e-ao-cubo">
-            02. Quadrado e ao Cubo
-           </a>
+        <td>02</td>
         <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-02-quadrado-e-ao-cubo/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
-           </a>
+            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript/desafio-02-quadrado-e-ao-cubo">
+                <span>Quadrado e ao Cubo</span>
+            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-02-quadrado-e-ao-cubo/resolucao-codigo.js">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>
      </tr>
-     <!-- LINHA 3 -->
      <tr>
+        <td>03</td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript/desafio-03-idade-em-dias">
-            03. Idade em Dias
-           </a>
-        </td>
-        <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-03-idade-em-dias/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+              <span>Idade em Dias</span>
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-03-idade-em-dias/resolucao-codigo.js">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>
-         <!-- LINHA 4 -->
        <tr>
+          <td>04</td>
           <td>
              <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript/desafio-04-quadrado-de-pares">
-              04. Quadrado de Pares
-             </a>
-          </td>
-          <td>
-             <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-04-quadrado-de-pares/resolucao-comentada.md">
-               <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+                <span>Quadrado de Pares</span>
              </a>
           </td>
           <td>
             <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-04-quadrado-de-pares/resolucao-codigo.js">
-              <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+              <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
             </a>
         </td>
-       <!-- LINHA 5 -->
        <tr>
+          <td>05</td>
           <td>
              <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript/desafio-05-resto-2">
-              05. Resto 2
-             </a>
-          </td>
-          <td>
-             <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-05-resto-2/resolucao-comentada.md">
-               <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+                <span>Resto 2</span>
              </a>
           </td>
           <td>
             <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-05-resto-2/resolucao-codigo.js">
-              <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+              <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
             </a>
         </td>
-        <!-- LINHA 6 -->
        <tr>
+          <td>06</td>
           <td>
              <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript/desafio-06-tomadas">
-              06. Tomadas
-             </a>
-          </td>
-          <td>
-             <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-06-tomadas/resolucao-comentada.md">
-               <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+                <span>Tomadas</span>
              </a>
           </td>
           <td>
             <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-iniciais-javascript/desafio-06-tomadas/resolucao-codigo.js">
-              <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+              <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
             </a>
         </td>      
      </tr>
      <!-- DESAFIOS INTERMEDIÁRIOS JAVASCRIPT -->
-     <!-- LINHA 0 -->
      <tr>
+        <th>Nº</th>
         <th>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-intermediarios-javascript">
-             Desafios Intermediários JavaScript
+              <span>Desafios Intermediários JavaScript</span> 
            </a>
         </th>
-        <th>Resolução Comentada</th>
-        <th>Código</th>
+        <th>Resolução</th>
     </tr>
-    <!-- LINHA 1 -->
     <tr>
+        <td>01</td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-intermediarios-javascript/desafio-01-esfera">
-            01. Esfera
-           </a>
-        </td>
-        <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-01-esfera/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+              <span>Esfera</span>
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-01-esfera/resolucao-codigo.js">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
      </tr>
-     <!-- LINHA 2 -->
      <tr>
+        <td>02</td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-intermediarios-javascript/desafio-02-ultrapassando-v">
-             02. Ultrapassando V
-           </a>
-        </td>
-        <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-02-ultrapassando-v/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+              <span>Ultrapassando V</span>
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-02-ultrapassando-v/resolucao-codigo.js">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
      </tr>
-     <!-- LINHA 3 -->
      <tr>
+        <td>03</td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-intermediarios-javascript/desafio-03-ordenando-numeros-pares-e-impares">
-             03. Ordenando Números Pares e Ímpares
-           </a>
-        </td>
-        <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-03-ordenando-numeros-pares-e-impares/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-5058A1?style=for-the-badge&logo=none">
+            <span>Ordenando Números Pares e Ímpares</span>  
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-03-ordenando-numeros-pares-e-impares/resolucao-codigo.js">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
      </tr>
-     <!-- LINHA 4 -->
      <tr>
+        <td>04</td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-intermediarios-javascript/desafio-04-guilherme-e-suas-pipas">
-             04. Guilherme e suas pipas
-           </a>
-        </td>
-        <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-04-guilherme-e-suas-pipas/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+            <span>Guilherme e suas pipas</span>
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-04-guilherme-e-suas-pipas/resolucao-codigo.js">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
      </tr>
-          <!-- LINHA 6 -->
      <tr>
+        <td>05</td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-intermediarios-javascript/desafio-05-poligonos-regulares-simples">
-             05. Polígonos Regulares Simples
-           </a>
-        </td>
-        <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-05-poligonos-regulares-simples/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+            <span>Polígonos Regulares Simples</span>
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-javascript/desafios-intermediarios-javascript/desafio-05-poligonos-regulares-simples/resolucao-codigo.js">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
      </tr>
