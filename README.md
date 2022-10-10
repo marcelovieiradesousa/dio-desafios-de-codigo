@@ -187,185 +187,139 @@ Resoluções dos desafios de código dos bootcamps que participei na [Digital In
 </h2>
 <table>
     <!-- DESAFIOS INICIAIS JAVA -->
-    <!-- LINHA 0 -->
     <tr>
+        <th>Nº</th>
         <th>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-iniciais-java">
              Desafios Iniciais Java
            </a>
         </th>
-        <th>Resolução Comentada</th>
-        <th>Código</th>
+        <th>Resolução</th>
     </tr>
-    <!-- LINHA 1 -->
     <tr>
+        <td>01</td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-iniciais-java/desafio-01-multiplicacao-simples">
-            01. Multiplicação Simples
-           </a>
-        </td>
-        <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-01-multiplicacao-simples/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+            Multiplicação Simples
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-01-multiplicacao-simples/resolucao-codigo.java">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
      </tr>
-    <!-- LINHA 2 -->
      <tr>
+       <td>02</td>
        <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-iniciais-java/desafio-02-diferenca">
-            02. Diferença
+            Diferença
            </a>
-        <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-02-diferenca/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
-           </a>
-        </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-02-diferenca/resolucao-codigo.java">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>
      </tr>
-     <!-- LINHA 3 -->
      <tr>
+        <td>03</td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-iniciais-java/desafio-03-idades">
-            03. Idades
-           </a>
-        </td>
-        <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-03-idades/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+            Idades
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-03-idades/resolucao-codigo.java">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>
      </tr>
-      <!-- LINHA 4 -->
      <tr>
+        <td>04</td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-iniciais-java/desafio-04-bob-conduite">
-            04. Bob Conduite
-           </a>
-        </td>
-        <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-04-bob-conduite/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+            Bob Conduite
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-04-bob-conduite/resolucao-codigo.java">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>
      </tr>
-     <!-- LINHA 5 -->
      <tr>
+        <td>05</td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-iniciais-java/desafio-05-pneu">
-            05. Pneu
-           </a>
-        </td>
-        <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-05-pneu/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+            Pneu
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-05-pneu/resolucao-codigo.java">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>
      </tr>
      <!-- LINHA 6 -->
      <tr>
+        <td>06</td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-iniciais-java/desafio-06-reservatorio-de-mel">
-            06. Reservatório de Mel
-           </a>
-        </td>
-        <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-06-reservatorio-de-mel/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+            Reservatório de Mel
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-06-reservatorio-de-mel/resolucao-codigo.java">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>
      </tr>
      <!-- DESAFIOS INTERMEDIÁRIOS JAVA -->
-     <!-- LINHA 0 -->
      <tr>
+        <th>Nº</th>
         <th>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-intermediarios-javascript">
              Desafios Intermediários Java
            </a>
         </th>
-        <th>Resolução Comentada</th>
-        <th>Código</th>
+        <th>Resolução</th>
     </tr>
-    <!-- LINHA 1 -->
     <tr>
+        <td>01</td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-intermediarios-java/desafio-01-ddd">
-            01. DDD
-           </a>
-        </td>
-        <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-01-ddd/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+            DDD
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-01-ddd/resolucao-codigo.java">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
      </tr>
-     <!-- LINHA 2 -->
      <tr>
+        <td>02</td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-intermediarios-java/desafio-02-seis-numeros-impares">
-             02. Seis Números Ímpares
-           </a>
-        </td>
-        <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-02-seis-numeros-impares/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+             Seis Números Ímpares
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-02-seis-numeros-impares/resolucao-codigo.java">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
      </tr>
-     <!-- LINHA 3 -->
      <tr>
+        <td>03</td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-intermediarios-java/desafio-03-analise-de-numeros">
-             03. Análise de Números
-           </a>
-        </td>
-        <td>
-           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-03-analise-de-numeros/resolucao-comentada.md">
-             <img alt="Resolução Comentada" height="25" src="https://img.shields.io/badge/Ver%20Resolução%20Comentada-CACACA?style=for-the-badge&logo=none">
+            Análise de Números
            </a>
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-03-analise-de-numeros/resolucao-codigo.java">
-            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Código-30A3DC?style=for-the-badge&logo=none">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
      </tr>
