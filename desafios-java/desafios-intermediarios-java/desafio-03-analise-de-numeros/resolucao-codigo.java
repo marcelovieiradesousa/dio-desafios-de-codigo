@@ -1,4 +1,4 @@
-//  RESOLUÇÃO DESAFIO ANÁLISE DE NÚMEROS */
+//  RESOLUÇÃO DESAFIO ANÁLISE DE NÚMEROS
 import java.io.IOException;
 import java.util.Scanner;
 
