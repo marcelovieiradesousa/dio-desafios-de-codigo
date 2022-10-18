@@ -11,7 +11,7 @@ Resoluções dos Desafios de Código dos Bootcamps que participei na [Digital In
 <br>
 
 <h2>
-  <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript/desafios-iniciais-javascript">
+  <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-javascript">
    💻 Desafios JavaScript
   </a>
 </h2>
@@ -181,7 +181,7 @@ Resoluções dos Desafios de Código dos Bootcamps que participei na [Digital In
 <br>
 
 <h2>
-  <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java/desafios-iniciais-java">
+  <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/tree/main/desafios-java">
    💻 Desafios Java
   </a>
 </h2>
