@@ -204,7 +204,7 @@ Resoluções dos desafios de código dos bootcamps que participei na [Digital In
            </a>
         </td>
         <td>
-          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-01-multiplicacao-simples/resolucao-codigo.java">
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-01-multiplicacao-simples/ResolucaoCodigo.java">
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
@@ -216,7 +216,7 @@ Resoluções dos desafios de código dos bootcamps que participei na [Digital In
             Diferença
            </a>
         <td>
-          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-02-diferenca/resolucao-codigo.java">
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-02-diferenca/ResolucaoCodigo.java">
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>
@@ -229,7 +229,7 @@ Resoluções dos desafios de código dos bootcamps que participei na [Digital In
            </a>
         </td>
         <td>
-          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-03-idades/resolucao-codigo.java">
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-03-idades/ResolucaoCodigo.java">
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>
@@ -242,7 +242,7 @@ Resoluções dos desafios de código dos bootcamps que participei na [Digital In
            </a>
         </td>
         <td>
-          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-04-bob-conduite/resolucao-codigo.java">
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-04-bob-conduite/ResolucaoCodigo.java">
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>
@@ -255,12 +255,11 @@ Resoluções dos desafios de código dos bootcamps que participei na [Digital In
            </a>
         </td>
         <td>
-          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-05-pneu/resolucao-codigo.java">
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-05-pneu/ResolucaoCodigo.java">
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>
      </tr>
-     <!-- LINHA 6 -->
      <tr>
         <td>06</td>
         <td>
@@ -269,7 +268,7 @@ Resoluções dos desafios de código dos bootcamps que participei na [Digital In
            </a>
         </td>
         <td>
-          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-06-reservatorio-de-mel/resolucao-codigo.java">
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-iniciais-java/desafio-06-reservatorio-de-mel/ResolucaoCodigo.java">
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>
@@ -292,7 +291,7 @@ Resoluções dos desafios de código dos bootcamps que participei na [Digital In
            </a>
         </td>
         <td>
-          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-01-ddd/resolucao-codigo.java">
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-01-ddd/ResolucaoCodigo.java">
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
@@ -305,7 +304,7 @@ Resoluções dos desafios de código dos bootcamps que participei na [Digital In
            </a>
         </td>
         <td>
-          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-02-seis-numeros-impares/resolucao-codigo.java">
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-02-seis-numeros-impares/ResolucaoCodigo.java">
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
@@ -318,7 +317,7 @@ Resoluções dos desafios de código dos bootcamps que participei na [Digital In
            </a>
         </td>
         <td>
-          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-03-analise-de-numeros/resolucao-codigo.java">
+          <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-03-analise-de-numeros/ResolucaoCodigo.java">
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
