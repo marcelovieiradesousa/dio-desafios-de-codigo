@@ -5,8 +5,8 @@
 </div>
 <br>
 
-# 🚀 Desafios Bootcamps DIO
-Resoluções dos desafios de código dos bootcamps que participei na [Digital Innovation One](https://www.dio.me/).
+# 🚀 Desafios de Código Bootcamps DIO
+Resoluções dos Desafios de Código dos Bootcamps que participei na [Digital Innovation One](https://www.dio.me/).
 
 <br>
 
