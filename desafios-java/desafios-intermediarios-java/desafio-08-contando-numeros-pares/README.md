@@ -12,9 +12,6 @@ Desafio realizado no Bootcamp **Québec Java Digital** na [Digital Innovation On
 <br>
 
 ### 📝 **Enunciado**
-
-  <img height="100" src="https://www.beecrowd.com.br/gallery/images/problems/UOJ_2686.png?origem=1">
-
 #### **Dado um inteiro positivo num, retorne o número de inteiros positivos menor ou igual a num cuja soma de dígitos é par. A soma dos dígitos de um inteiro positivo é a soma de todos os seus dígitos.**
 
 📥 **Entrada de dados:** Como entrada você recerá um valor inteiro e positivo.
