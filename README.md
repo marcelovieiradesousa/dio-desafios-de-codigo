@@ -272,7 +272,111 @@ Resoluções dos Desafios de Código dos Bootcamps que participei na [Digital In
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>
-     </tr>
+    </tr>
+    <tr>
+        <td>07</td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-iniciais-java/desafio-07-arrays-pares">
+            Arrays Pares
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-iniciais-java/desafio-07-arrays-pares/ResolucaoCodigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>08</td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-iniciais-java/desafio-08-calculo-simples">
+            Cálculo Simples
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-iniciais-java/desafio-08-calculo-simples/ResolucaoCodigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>09</td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-iniciais-java/desafio-09-preenchimento-de-vetor-ii">
+            Preenchimento de Vetor II
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-iniciais-java/desafio-09-preenchimento-de-vetor-ii/ResolucaoCodigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-iniciais-java/desafio-10-os-numeros-sao-iguais">
+            Os números são iguais?
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-iniciais-java/desafio-10-os-numeros-sao-iguais/ResolucaoCodigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-iniciais-java/desafio-11-somando-multiplos">
+            Somando Múltiplos
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-iniciais-java/desafio-11-somando-multiplos/ResolucaoCodigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-iniciais-java/desafio-12-uma-chamada-recursiva">
+            Uma Chamada Recursiva
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-iniciais-java/desafio-12-uma-chamada-recursiva/ResolucaoCodigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-iniciais-java/desafio-13-fizzbuzz">
+            FizzBuzz
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-iniciais-java/desafio-13-fizzbuzz/ResolucaoCodigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-iniciais-java/desafio-14-busca-sequencial">
+            Busca Sequencial
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-iniciais-java/desafio-14-busca-sequencial/ResolucaoCodigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>
+    </tr>
      <!-- DESAFIOS INTERMEDIÁRIOS JAVA -->
      <tr>
         <th>Nº</th>
@@ -318,6 +422,97 @@ Resoluções dos Desafios de Código dos Bootcamps que participei na [Digital In
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-bootcamps/blob/main/desafios-java/desafios-intermediarios-java/desafio-03-analise-de-numeros/ResolucaoCodigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>    
+      </tr>
+      <tr>
+        <td>04</td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-intermediarios-java/desafio-04-a-mudanca">
+            A Mudança
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-intermediarios-java/desafio-04-a-mudanca/ResolucaoCodigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>    
+      </tr>
+      <tr>
+        <td>05</td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-intermediarios-java/desafio-05-dragao-berrador-world">
+            Dragão Berrador World
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-intermediarios-java/desafio-05-dragao-berrador-world/ResolucaoCodigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>    
+      </tr>
+      <tr>
+        <td>06</td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-intermediarios-java/desafio-06-reduzindo-um-numero-a-zero">
+            Reduzindo um Número a Zero
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-intermediarios-java/desafio-06-reduzindo-um-numero-a-zero/ResolucaoCodigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>    
+      </tr>
+      <tr>
+        <td>07</td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-intermediarios-java/desafio-07-robo">
+            Robô
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-intermediarios-java/desafio-07-robo/ResolucaoCodigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>    
+     </tr>
+      <tr>
+        <td>08</td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-intermediarios-java/desafio-08-contando-numeros-pares">
+            Contando Números Pares
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-intermediarios-java/desafio-08-contando-numeros-pares/ResolucaoCodigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>    
+     </tr>
+           <tr>
+        <td>09</td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-intermediarios-java/desafio-09-checagem-de-palindromos">
+            Checagem de Palíndromos
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-intermediarios-java/desafio-09-checagem-de-palindromos/ResolucaoCodigo.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>    
+     </tr>
+           <tr>
+        <td>10</td>
+        <td>
+           <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-intermediarios-java/desafio-10-validacao-de-parenteses">
+            Validação Parênteses
+           </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-intermediarios-java/desafio-10-validacao-de-parenteses/ResolucaoCodigo.java">
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
