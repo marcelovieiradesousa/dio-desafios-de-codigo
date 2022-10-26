@@ -24,7 +24,6 @@ public class BuscaSequencial {
           System.out.println("Numero " + number + " nao encontrado!");
         }
         
-        leitor.close();
     }
 }
 // RESOLUÇÃO DESAFIO BUSCA SEQUENCIAL END

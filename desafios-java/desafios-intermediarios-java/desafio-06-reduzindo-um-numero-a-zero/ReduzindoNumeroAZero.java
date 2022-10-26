@@ -1,10 +1,9 @@
 //  RESOLUÇÃO REDUZINDO UM NÚMERO A ZERO
 import java.util.*;
  
-public class Program
-{
-    public static void main(String[] args)
-    {
+public class ReduzindoNumeroAZero {
+    public static void main(String[] args) {
+      
         int num = Integer.parseInt(new Scanner(System.in).nextLine());
         var step = 0;
 

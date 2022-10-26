@@ -1,7 +1,7 @@
 //  RESOLUÇÃO DESAFIO VALIDAÇÃO DE PARÊNTESES
 import java.util.*;
 
-public class ValidParentheses {
+public class ValidacaoParenteses {
 
     public static void main(String[] args) {
         Scanner scanner= new Scanner(System.in);
@@ -9,6 +9,8 @@ public class ValidParentheses {
         boolean caracter = ehValido(scanner.nextLine());
 
         System.out.println(caracter);
+
+        scanner.close();
     }
 
     public static boolean ehValido(String s) {

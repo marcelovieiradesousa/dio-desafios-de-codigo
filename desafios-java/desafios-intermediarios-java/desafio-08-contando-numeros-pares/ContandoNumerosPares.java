@@ -1,7 +1,7 @@
 //  RESOLUÇÃO CONTANDO NÚMEROS PARES
 import java.util.*;
  
-public class DIO
+public class ContandoNumerosPares
 {
     public static void main(String[] args)
     {

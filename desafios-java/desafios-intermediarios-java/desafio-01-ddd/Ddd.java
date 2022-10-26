@@ -1,10 +1,12 @@
 //  RESOLUÇÃO DESAFIO  DDD */
 import java.util.Scanner;
 
-public class Main {
+public class Ddd {
     public static void main(String[] args) {
+
       Scanner sc = new Scanner(System.in);
       int a = sc.nextInt();
+
       if(a == 61){
           System.out.printf("Brasilia\n");
       }
@@ -32,6 +34,9 @@ public class Main {
        else{
            System.out.printf("DDD nao cadastrado\n");
        }
+
+       sc.close();
+
     }
     
 }

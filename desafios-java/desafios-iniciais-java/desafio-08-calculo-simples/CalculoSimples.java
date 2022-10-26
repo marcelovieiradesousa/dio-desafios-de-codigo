@@ -2,9 +2,10 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Problem {
+public class CalculoSimples {
 	
   public static void main(String[] args) throws IOException {
+
      Scanner leitor = new Scanner(System.in);
 		
       int cod1 = leitor.nextInt();
@@ -16,7 +17,11 @@ public class Problem {
       double valor2 = leitor.nextDouble();
 
       double total = (valor1 * n1) + (valor2 * n2);
-     System.out.println(String.format("VALOR A PAGAR: R$ %.2f", total));   
+
+      System.out.println(String.format("VALOR A PAGAR: R$ %.2f", total));   
+    
+      leitor.close();
+
     }
 	
 }

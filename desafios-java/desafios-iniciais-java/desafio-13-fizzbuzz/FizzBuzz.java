@@ -1,7 +1,7 @@
 //  RESOLUÇÃO DESAFIO FIZZBUZZ
 import java.util.*;
 
-public class Desafio {
+public class FizzBuzz {
 
     public static void main(String[] args) {
 
@@ -21,6 +21,9 @@ public class Desafio {
         } else {
           System.out.println(num);
         }
+
+        number.close();
+
     }
 }
 // RESOLUÇÃO DESAFIO FIZZBUUZZ END

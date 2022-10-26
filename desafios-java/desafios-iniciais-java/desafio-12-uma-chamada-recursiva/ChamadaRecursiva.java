@@ -1,7 +1,7 @@
 //  RESOLUÇÃO DESAFIO UMA CHAMADA RECURSIVA
 import java.util.*;
 
-public class Main {
+public class ChamadaRecursiva {
 
     public static void main(String[] args) {
 
@@ -9,6 +9,8 @@ public class Main {
         int N = numero.nextInt();
         
         System.out.println(somatorio(N));
+
+        numero.close();
     }
 
     /**
@@ -21,5 +23,6 @@ public class Main {
             return numero + somatorio(numero - 1);
         }
     }
+
 }
 // RESOLUÇÃO DESAFIO UMA CHAMADA RECURSIVA END

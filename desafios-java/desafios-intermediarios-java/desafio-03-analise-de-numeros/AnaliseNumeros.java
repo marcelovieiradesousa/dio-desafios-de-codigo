@@ -2,9 +2,10 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class minhaClasse {
+public class AnaliseNumeros {
 	
     public static void main(String[] args) throws IOException {
+
         Scanner leitor = new Scanner(System.in);
 
         int qntPar = 0;
@@ -24,6 +25,9 @@ public class minhaClasse {
         System.out.println( qntImpar + " impar(es)");
         System.out.println( qntPositivo + " positivo(s)");
         System.out.println( qntNegativo + " negativo(s)");
+
+        leitor.close();
+
     }	
 }
 // RESOLUÇÃO DESAFIO ANÁLISE DE NÚMEROS END 

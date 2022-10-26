@@ -1,7 +1,7 @@
 //  RESOLUÇÃO DESAFIO CHECAGEM DE PALÍNDROMOS
 import java.util.Scanner;
 
-public class Desafio {
+public class ChecagemPalindromos {
 
     public static void main(String[] args) {
 
@@ -11,6 +11,8 @@ public class Desafio {
         String palavraInvertida = new StringBuffer(palavra).reverse().toString();
 
         System.out.println(palavraInvertida.equals(palavra) ? "TRUE" : "FALSE");
+
+        leitor.close();
     }
 }
 // RESOLUÇÃO DESAFIO CHECAGEM DE PALÍNDROMOS END

@@ -2,11 +2,11 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class  Desafio {
+public class Idades {
 	
     public static void main(String[] args) throws IOException {
+
         Scanner leitor = new Scanner(System.in);
-        
         int cont = 0;
         int n = 0;
         double soma = 0;
@@ -23,6 +23,9 @@ public class  Desafio {
         double media = soma / cont;
         
         System.out.println(String.format("%.2f", media));
+
+        leitor.close();
+        
     }
 	
 }

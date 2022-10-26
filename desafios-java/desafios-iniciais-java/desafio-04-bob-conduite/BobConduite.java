@@ -2,8 +2,10 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Main {
+public class BobConduite {
+  
   public static void main(String[] args) throws IOException {
+
     Scanner scan = new Scanner(System.in);
     int T = scan.nextInt();
     
@@ -12,6 +14,9 @@ public class Main {
       int R2 = scan.nextInt();
       System.out.println(R1 + R2);
     }
+
+    scan.close();
+
   }
 }
 // RESOLUÇÃO DESAFIO BOB CONDUITE END 

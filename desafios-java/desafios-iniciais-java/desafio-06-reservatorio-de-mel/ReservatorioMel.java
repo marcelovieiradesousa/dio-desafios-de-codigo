@@ -3,8 +3,10 @@ import java.io.IOException;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Problem {
+public class ReservatorioMel {
+
     public static void main(String[] args) throws IOException {
+
     	Scanner leitor = new Scanner(System.in);
     	DecimalFormat df = new DecimalFormat("0.00");
     	double V, D, R, area, altura;
@@ -18,6 +20,9 @@ public class Problem {
     		System.out.println("ALTURA = " + df.format(altura));
     		System.out.println("AREA = " + df.format(area));
     	}
+
+		leitor.close();
+
     }	
 }
 // RESOLUÇÃO DESAFIO RESERVATÓRIO DE MEL END 

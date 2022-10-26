@@ -1,11 +1,14 @@
 //  RESOLUÇÃO DESAFIO SOMANDO MÚLTIPLOS
 import java.util.Scanner;
 
-public class Main {
+public class SomandoMultiplos {
+
     public static void main(String[] args) {
+
         int A, N, somaMultiplos;
 
         Scanner input = new Scanner(System.in);
+
         A = input.nextInt();
         N = input.nextInt();
         somaMultiplos = 0;
@@ -18,6 +21,9 @@ public class Main {
         }
         
         System.out.println(somaMultiplos);
+
+        input.close();
+
     }
 }
 // RESOLUÇÃO DESAFIO SOMANDO MÚLTIPLOS END

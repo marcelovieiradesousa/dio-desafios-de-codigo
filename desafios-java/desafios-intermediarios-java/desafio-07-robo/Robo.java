@@ -1,13 +1,10 @@
 //  RESOLUÇÃO ROBÔ
 import java.util.*;
  
-public class Program
-{
-public static void main(String[] args)
- 
-{
+public class Robo {
+    public static void main(String[] args) {
+
         String movimentos = new Scanner(System.in).nextLine();
- 
         var x = 0;
         var y = 0;
 
@@ -32,14 +29,12 @@ public static void main(String[] args)
                 }
         }
  
-            if (x == 0 && y == 0)
-            {
+            if (x == 0 && y == 0) {
                 System.out.print("true");
             }
-            else
-            {
+            else {
                 System.out.print("false");
             }
-  }
+    }
 }
 // RESOLUÇÃO ROBÔ END 
