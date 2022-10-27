@@ -176,6 +176,10 @@ Resoluções dos Desafios de Código dos Bootcamps que participei na [Digital In
           </a>
         </td>    
      </tr>
+     <tr>
+        <td colspan="2"><b>TOTAL DESAFIOS JAVASCRIPT</b></td>
+        <td>11</td>    
+     </tr>
 </table>
 
 <br>
@@ -543,7 +547,7 @@ Resoluções dos Desafios de Código dos Bootcamps que participei na [Digital In
           </a>
         </td>    
      </tr>
-           <tr>
+     <tr>
         <td>10</td>
         <td>
            <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-intermediarios-java/desafio-10-validacao-de-parenteses">
@@ -555,6 +559,10 @@ Resoluções dos Desafios de Código dos Bootcamps que participei na [Digital In
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>    
+     </tr>
+     <tr>
+        <td colspan="2"><b>TOTAL DESAFIOS JAVA</b></td>
+        <td>27</td>    
      </tr>
 </table>
 
