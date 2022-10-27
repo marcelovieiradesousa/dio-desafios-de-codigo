@@ -377,7 +377,7 @@ Resoluções dos Desafios de Código dos Bootcamps que participei na [Digital In
           </a>
         </td>
     </tr>
-        <tr>
+    <tr>
         <td>15</td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-iniciais-java/desafio-15-pedra-papel-ataque-aereo">
@@ -386,6 +386,32 @@ Resoluções dos Desafios de Código dos Bootcamps que participei na [Digital In
         </td>
         <td>
           <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-iniciais-java/desafio-15-pedra-papel-ataque-aereo/PedraPapelAtaque.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-iniciais-java/desafio-16-entrada-e-saida-lendo-e-pulando-nomes">
+            Entrada e Saída Lendo e Pulando Nomes
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-iniciais-java/desafio-16-entrada-e-saida-lendo-e-pulando-nomes/EntradaSaidaNomes.java">
+            <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-iniciais-java/desafio-17-mjolnir">
+            Mjölnir
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-iniciais-java/desafio-17-mjolnir/Mjolnir.java">
             <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-30A3DC?style=for-the-badge&logo=none">
           </a>
         </td>
