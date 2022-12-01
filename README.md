@@ -655,11 +655,50 @@ Resoluções dos Desafios de Código dos Bootcamps que participei na [Digital In
             </a>
           </td>    
       </tr>
+            <tr>
+          <td>11</td>
+          <td>
+            <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-intermediarios-java/desafio-11-quadrados-perfeitos">
+              Quadrados Perfeitos
+            </a>
+          </td>
+          <td>
+            <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-intermediarios-java/desafio-11-quadrados-perfeitos/QuadradosPerfeitos.java">
+              <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-E94D5F?style=for-the-badge&logo=none">
+            </a>
+          </td>    
+      </tr>
+            <tr>
+          <td>12</td>
+          <td>
+            <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-intermediarios-java/desafio-12-classificando-matrizes">
+              Classificando Matrizes
+            </a>
+          </td>
+          <td>
+            <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-intermediarios-java/desafio-12-classificando-matrizes/ClassificandoMatrizes.java">
+              <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-E94D5F?style=for-the-badge&logo=none">
+            </a>
+          </td>    
+      </tr>
+        <tr>
+          <td>13</td>
+          <td>
+            <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/tree/main/desafios-java/desafios-intermediarios-java/desafio-13-fatorial-desajeitado">
+              Fatorial Desajeitado
+            </a>
+          </td>
+          <td>
+            <a href="https://github.com/elidianaandrade/dio-desafios-de-codigo/blob/main/desafios-java/desafios-intermediarios-java/desafio-13-fatorial-desajeitado/FatorialDesajeitado.java">
+              <img alt="Resolução Código" height="25" src="https://img.shields.io/badge/Ver%20Resolução-E94D5F?style=for-the-badge&logo=none">
+            </a>
+          </td>    
+      </tr>
     </tbody>
     <tfoot>
       <tr>
           <td colspan="2"><b>TOTAL DESAFIOS JAVA</b></td>
-          <td>27</td>    
+          <td>30</td>    
       </tr>
     </tfoot>
 </table>
