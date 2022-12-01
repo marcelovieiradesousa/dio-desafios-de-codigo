@@ -6,7 +6,7 @@
 
 # 💻 Desafios Intermediários Java
 
-## Desafio - Quadrados Perfeitos
+## Desafio - Classificando Matrizes
 Desafio realizado no Bootcamp **Potência Tech powered by iFood - Java Beginners** na [Digital Innovation One](https://www.dio.me/).
 
 <br>
