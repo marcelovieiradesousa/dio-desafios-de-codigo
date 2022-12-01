@@ -6,7 +6,7 @@
 
 # 💻 Desafios Iniciais JavaScript
 
-## Desafio - Busca Sequencial
+## Desafio - Matriz Par e Impar
 Desafio realizado no Bootcamp **Orange Tech +** na [Digital Innovation One](https://www.dio.me/).
 
 <br>
